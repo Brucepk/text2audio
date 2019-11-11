@@ -1,6 +1,12 @@
 from aip import AipSpeech
 import requests
 
+"""
+本文原创：pk哥
+公众号：Python知识圈（id：PythonCircle）
+「Python知识圈」公众号定时分享大量有趣有料的 Python 爬虫和实战项目，值得你的关注。
+关注后回复1024免费领取学习资料！
+"""
 
 def get_msg():
     url = 'http://open.iciba.com/dsapi/'   # 金山词霸每日一句 api 链接
